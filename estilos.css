@@ -1,0 +1,11 @@
+h1 {
+  Color: blue;
+  font-size: 60px;
+}
+
+body {
+  background-color: lightblue;
+}
+
+img {
+  max-width: 50%;
